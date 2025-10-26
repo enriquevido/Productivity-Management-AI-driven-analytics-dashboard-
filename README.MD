@@ -1,7 +1,5 @@
 # 🧩 GateGroup AI-Driven Productivity Dashboard
 
-![GateGroup Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Gategroup_logo.png/320px-Gategroup_logo.png)
-
 ## 🚀 Overview
 
 Every day, thousands of airline trolleys are stocked manually — yet no one truly knows who’s performing best or where time is being lost.  
