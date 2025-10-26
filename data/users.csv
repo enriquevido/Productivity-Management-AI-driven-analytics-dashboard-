@@ -1,0 +1,4 @@
+employee_id,name,role,site,password
+E001,Ana Torres,Operator,FRA,demo
+E008,Emma Smith,Supervisor,JFK,demo
+E010,Paul Dupont,Admin,CDG,demo

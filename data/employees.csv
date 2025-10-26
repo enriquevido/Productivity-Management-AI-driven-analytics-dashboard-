@@ -1,0 +1,11 @@
+employee_id,name,role,site
+E001,Ana Torres,Operator,FRA
+E002,John Park,Operator,ORD
+E003,Luis Gómez,Operator,ORD
+E004,Maria Rossi,Operator,CDG
+E005,Chen Li,Operator,CDG
+E006,Emma Smith,Operator,PER
+E007,Carlos Pérez,Operator,FRA
+E008,Yuki Tanaka,Supervisor,ORD
+E009,Sara Ahmed,Supervisor,JFK
+E010,Paul Dupont,Supervisor,FRA
